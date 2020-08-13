@@ -8,7 +8,7 @@ const {listarTabla} = require('./multiplicar/multiplicar');
 
 let comando = argv._[0];
 
-console.log('algo');
+
 
 switch(comando){
 
